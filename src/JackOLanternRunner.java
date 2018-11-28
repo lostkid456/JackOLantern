@@ -6,16 +6,16 @@ public class JackOLanternRunner {
         face1.fill("x");
         face1.edit("",0,0);
         face1.edit("",4,7);
-        face1.edit();
-        face1.edit();
-        face1.edit();
-        face1.edit();
-        face1.edit();
-        face1.edit();
-        face1.edit();
-        face1.edit();
-        face1.edit();
-        face1.edit();
-        face1.edit();
+        face1.edit("",);
+        face1.edit("");
+        face1.edit("");
+        face1.edit("");
+        face1.edit("");
+        face1.edit("");
+        face1.edit("");
+        face1.edit("");
+        face1.edit("");
+        face1.edit("");
+        face1.edit("");
     }
 }
